@@ -7,3 +7,7 @@ Introduction
 
 Première analyse
 Génial!
+
+Sur l'interface github, reviewer doit être collobarateur
+
+mais assignees : consultatif
